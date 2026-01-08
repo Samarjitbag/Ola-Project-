@@ -39,3 +39,5 @@ This project provides a 360-degree view of ride-booking operations using a raw d
 * **Data Transformation:** SQL (Complex data cleaning, handling nulls, and logic validation)
 * **Visualization:** Microsoft Power BI (DAX, Interactive Slicers, Custom Tooltips)
 
+**Example**
+DashBoard Preview: (https://github.com/Samarjitbag/Ola-Project-/blob/main/Screenshot%202026-01-08%20091340.png)
